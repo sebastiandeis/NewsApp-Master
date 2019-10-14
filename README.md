@@ -1,4 +1,4 @@
-# NewsRaven Front-end Application
+# NewsApp Front-end and Mobiel Friendly Application
 
 ## Features
 
@@ -25,8 +25,6 @@
 
 ## Installation
 
-* `git@github.com:Makermed/NewsRaven.git`
-* `cd NewsRaven/WebClient`
 * `npm install`
 * `npm start`
 * visit http://localhost:3000/
